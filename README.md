@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Movie API's application</h1>
 
-<p id="description">Introducing our Global Movie Application a cutting-edge mobile platform developed with React Native. Experience seamless navigation and stunning visual aesthetics thanks to our beautiful UI design. Our project boasts a robust architecture ensuring smooth functionality and efficient performance. TailwindCSS integration guarantees a responsive and visually appealing layout while shared components enhance collaboration and streamline development. Dive into the world of movies like never before with our user-friendly and visually captivating Global Movie Application.</p>
+<p id="description">Introducing our Movie Application a cutting-edge mobile platform developed with React Native. Experience seamless navigation and stunning visual aesthetics thanks to our beautiful UI design. Our project boasts a robust architecture ensuring smooth functionality and efficient performance. TailwindCSS integration guarantees a responsive and visually appealing layout while shared components enhance collaboration and streamline development. Dive into the world of movies like never before with our user-friendly and visually captivating Movie Application.</p>
 
 <h2>🚀 Demo</h2>
 
